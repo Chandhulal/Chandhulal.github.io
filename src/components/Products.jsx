@@ -26,11 +26,11 @@ function Products() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12 md:mb-16">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-              Premium Bar Equipment
+              Premium Bar Equipment for Cocktails & Mocktails
             </h2>
             <div className="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
             <p className="text-base md:text-lg text-gray-700 max-w-2xl mx-auto">
-              We also offer premium glassware and professional bartending tools for your home bar or establishment
+              Blue Ice offers premium glassware and professional bartending tools for your home bar or establishment. Perfect for cocktail and mocktail preparation with expert mixology equipment.
             </p>
           </div>
 

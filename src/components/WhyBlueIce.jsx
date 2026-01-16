@@ -2,16 +2,16 @@ import React from 'react'
 
 const features = [
   {
-    title: 'Professional Expertise',
-    description: 'Years of experience in crafting signature cocktails with unmatched skill and precision. Our team brings extensive knowledge of mixology techniques, flavor profiles, and presentation artistry. We stay current with industry trends and continuously refine our craft to deliver exceptional drinks that exceed expectations. Every cocktail is meticulously prepared using premium ingredients and time-tested methods.',
+    title: 'Expert Mixology & Bartending',
+    description: 'Blue Ice by Saj brings years of experience in professional bartending and mixology, crafting signature cocktails and mocktails with unmatched skill and precision. Our team brings extensive knowledge of mixology techniques, cocktail creation, and presentation artistry. We stay current with industry trends and continuously refine our craft to deliver exceptional drinks that exceed expectations. Every cocktail and mocktail is meticulously prepared using premium ingredients and time-tested mixology methods.',
   },
   {
-    title: 'Premium Service',
-    description: 'Exceptional service that makes every event memorable and your guests impressed. We provide a seamless, professional experience from initial consultation through event execution. Our attention to detail, friendly demeanor, and ability to anticipate needs ensures your event runs smoothly. We work closely with you to understand your vision and deliver a personalized service that reflects your style and preferences.',
+    title: 'Premium Bartending Service',
+    description: 'Exceptional bartending and mixology service that makes every event memorable and your guests impressed. Blue Ice provides a seamless, professional bartending experience from initial consultation through event execution. Our attention to detail, friendly demeanor, and mixology expertise ensures your event runs smoothly. We work closely with you to understand your vision and deliver personalized cocktail and mocktail services that reflect your style and preferences.',
   },
   {
-    title: 'Party-Ready',
-    description: 'From intimate gatherings to grand celebrations, we adapt to any event size. Whether you\'re hosting a small dinner party, corporate event, wedding, or large festival, we have the expertise and equipment to handle it all. Our flexible approach means we can scale our services to match your needs, ensuring every guest receives the same high-quality experience regardless of the event size.',
+    title: 'Professional Event Bartending',
+    description: 'From intimate gatherings to grand celebrations, Blue Ice adapts to any event size with professional bartending and mixology services. Whether you\'re hosting a small dinner party, corporate event, wedding, or large festival, we have the bartending expertise and mixology equipment to handle it all. Our flexible approach means we can scale our cocktail and mocktail services to match your needs, ensuring every guest receives the same high-quality bartending experience regardless of the event size.',
   },
 ]
 
@@ -23,13 +23,13 @@ function WhyBlueIce() {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12 md:mb-16">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4">
-              Why Blue Ice
+              Why Choose Blue Ice Bartending & Mixology
             </h2>
             <div className="w-24 h-1 bg-violet-400 mx-auto mb-6"></div>
             <p className="text-base md:text-lg lg:text-xl text-white/90 leading-relaxed max-w-3xl mx-auto">
-              Experience the perfect blend of professionalism, premium service, and party-ready bartending expertise. 
-              Blue Ice, led by Saj MG, brings years of experience in crafting signature cocktails and delivering 
-              exceptional service that makes every event memorable.
+              Experience the perfect blend of professional bartending, expert mixology, and premium service. 
+              Blue Ice, led by Saj MG, brings years of experience in crafting signature cocktails and mocktails. 
+              Our mixology expertise and bartending skills deliver exceptional cocktail and mocktail experiences that make every event memorable.
             </p>
           </div>
 

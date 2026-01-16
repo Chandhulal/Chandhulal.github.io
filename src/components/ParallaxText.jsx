@@ -60,7 +60,7 @@ function ParallaxText() {
   return (
     <section 
       ref={sectionRef}
-      className="parallax-section relative overflow-hidden"
+      className="parallax-section relative overflow-hidden py-12 sm:py-16 md:py-20 lg:py-24"
       style={{ willChange: 'transform', borderTop: 'none' }}
     >
       <div 
@@ -72,17 +72,17 @@ function ParallaxText() {
       <div className="relative z-10 w-full flex flex-col items-center justify-center">
         <div 
           ref={heading1Ref}
-          className="outline-text text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight mb-4"
+          className="outline-text text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-bold tracking-tight mb-2 sm:mb-3 md:mb-4 px-4"
           style={{ willChange: 'transform' }}
         >
-          <h2>Premium Bartending</h2>
+          <h2>The Art of Storytelling,</h2>
         </div>
         <div 
           ref={heading2Ref}
-          className="outline-text text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold tracking-tight"
+          className="outline-text text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-bold tracking-tight px-4"
           style={{ willChange: 'transform' }}
         >
-          <h2>For Elite Events</h2>
+          <h2>One Pour at a Time..</h2>
         </div>
       </div>
     </section>
